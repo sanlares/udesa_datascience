@@ -3,3 +3,8 @@
 Inferencia/Practicas/Practicas Inferencia/
 *.csv
 *.parquet
+aprendizaje_nosupervisado/
+aprendizaje_upervisado/TP_1
+
+!TP_2/
+!TP_2
