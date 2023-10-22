@@ -1,3 +1,2 @@
 scikit-learn
-q datasets
 numpy
